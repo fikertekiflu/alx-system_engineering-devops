@@ -1,2 +1,1 @@
-#!/bin/bash
-this is all about shell basics
+system developes
